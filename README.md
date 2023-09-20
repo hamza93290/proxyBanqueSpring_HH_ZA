@@ -1,6 +1,6 @@
 # ProxiBanqueSI
 
-Projet développé par Julien S. Mathieu B. et Guilhem M.
+Projet développé par hamza HAMZAOUI et zakaria ATRI.
 Il s'agit d'un webservice.
 
 Le système d'information (SI) de ProxiBanque s'appelle ProxiBanqueSI. Il permet au conseiller
@@ -22,13 +22,7 @@ Java, Spring Boot, JPA, PostgreSQL.
 - Un conseiller peut effectuer des virements internes pour un client, d'un compte courant à un compte épargne et vice-versa ;
 - Un conseiller peut afficher sur la page "Audit" les comptes courants débiteurs de plus de 5000 euros.
 
-# Installation
-
-Clonez le projet sur votre poste :
-
-git clone https://github.com/guilhem1492/ProxiBanque-MB-JS-GM.git
-
-Importez le dans votre Workspace STS/Eclipse et lancez le projet Spring Boot dans le Dashboard.
+ votre Workspace STS/Eclipse et lancez le projet Spring Boot dans le Dashboard.
 
 # Reste à implémenter
 
